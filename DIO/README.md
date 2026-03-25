@@ -19,6 +19,4 @@ DIO | Resumos Git e GitHub
 - [git reset "hash" ou git reset --mixed "hash"] ➡️  Retornar os arquivos do commit identificados no hash referente como não identificado(Não está na estante).
 - [git reset --hard "hash"] ➡️  Limpa todo o log posterior ao registro hash posto no comando
 - [git reflog] ➡️ mostra um histórico detalhando das mudanças feitas na branch 
-- [] ➡️ 
-- [] ➡️ 
 
