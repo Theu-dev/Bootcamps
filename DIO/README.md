@@ -19,4 +19,21 @@ DIO | Resumos Git e GitHub
 - [git reset "hash" ou git reset --mixed "hash"] ➡️  Retornar os arquivos do commit identificados no hash referente como não identificado(Não está na estante).
 - [git reset --hard "hash"] ➡️  Limpa todo o log posterior ao registro hash posto no comando
 - [git reflog] ➡️ mostra um histórico detalhando das mudanças feitas na branch 
-
+- [git checkout -b teste] ➡️ Deixar de apontar para o commit com a main, para apontar com a branch teste
+- [git branch -v] ➡️ Mostra o ultimo commmit de cada branch
+- [git merge "Nome da branch que desejamos mesclar com a main] ➡️ Mesclar branches com a branch main
+- [git branch] ➡️ Listar branches do repositorio.Obs: O sinal "*" Sinaliza a branch que estamos
+- [git branch -d "nome da branch que desejamos excluir"] ➡️ Deletar a branch
+- [git branch -D "nome da branch que desejamos excluir"] ➡️ Força deletar a branch, vale lembrar que serão perdidos as atualizações dessa branch
+- [git fetch origin main] ➡️ Baixa as alteracoes do repositorio remoto sem mesclar com o repositório local 
+- [git diff "Branch remota" "Branch local por exemplo(origin/main)"] ➡️ Mostra a(s) diferença de conteúdo comparando as branches.
+- [git merge oringin/main] ➡️ Mescla a nossa branch local com a remota 
+- [git clone "colar a URL" --branch "nome da branch que deseja clonar" --single-brnach] ➡️ Clona uma branch especifica de um repositorio remoto
+- [git stash] ➡️ Arquivar modificações na estante da branch
+- [git stash list] ➡️ Listar modificações arquivadas da branch
+- [git stash pop] ➡️ Recuperar modificações arquivadas da branch e excluir a alteração mais recente da pilha
+- [git stash applay] ➡️ Recuperar modificações arquivadas da branch e manter modificação na lista para uso posterior
+- [git stash applay stash@{"Numero da pilha"} ou git stash pop stash@{"Numero da pilha"}] ➡️ Recuperação com multiplos arquivos arquivados.(Pesquisei fora do bootcamp DIO)
+- [] ➡️ 
+- [] ➡️ 
+- [] ➡️ 
