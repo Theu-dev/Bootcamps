@@ -1,12 +1,15 @@
 DIO | Resumos Git e GitHub 
 
-## 📑 DOCUMENTAÇAO
+## 📑 DOCUMENTACOES INDICADAS
 
 - [Documentação Git](https://git-scm.com/docs/git/pt_BR)
 - [Documentação GitHub](https://docs.github.com/pt)
 
-## 🤖 COMANDOS
+## 🤖 COMANDOS QUE APRENDI
 
+- [git config --global user.name "Nome do dev"] ➡️ Configurar o git, por o nome do usuário git
+- [git config --global user.email "email do dev"] ➡️ Configurar o git, por o email do usuário git
+- [git config --global --list] ➡️ Mostra todas as configurações globais
 - [git branch -m master main] ➡️ Trocar nomeclatura da branch de master para main
 - [git init] ➡️ Iniciar repositorio local
 - [git status] ➡️ Verificar commits na branch
@@ -34,6 +37,4 @@ DIO | Resumos Git e GitHub
 - [git stash pop] ➡️ Recuperar modificações arquivadas da branch e excluir a alteração mais recente da pilha
 - [git stash applay] ➡️ Recuperar modificações arquivadas da branch e manter modificação na lista para uso posterior
 - [git stash applay stash@{"Numero da pilha"} ou git stash pop stash@{"Numero da pilha"}] ➡️ Recuperação com multiplos arquivos arquivados.(Pesquisei fora do bootcamp DIO)
-- [] ➡️ 
-- [] ➡️ 
-- [] ➡️ 
+- [] ➡️
