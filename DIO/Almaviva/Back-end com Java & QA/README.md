@@ -1,11 +1,29 @@
-DIO | Resumos Git e GitHub 
+## REGISTRO DE PROGRESSO
+
+(x) Onboard do Bootcamp e Fundamentos de Colaboração no GitHub
+() Fundamentos de Java
+() Orientação a Objeto em java na Prática
+() Debug, Exeções,I/O e Gestão de Dependências
+() Domínio de Collections e Stream API com Projeto Aplicado
+() APIs REST com Java e Spring Boot e Persistência de Dados
+() Banco de Dados para Backend na Prática com java
+() Fundamentos de Qualidade de Software
+() Testes de Software em Projetos java
+
+## PROJETOS CONCLUIDOS
+
+(x) Contribuindo em um Projeto Open Source no GitHub [https://github.com/Theu-dev/dio-lab-open-source.git]
+
+## LIVES ASSISITIDAS
+
+(X) Live de Lançamento - Almaviva - Back-end com Java & QA ➡️ https://www.youtube.com/live/a0HtHFkKyjk?si=SusFylu7WxhJXqdY
 
 ## 📑 DOCUMENTACOES INDICADAS
 
 - [Documentação Git](https://git-scm.com/docs/git/pt_BR)
 - [Documentação GitHub](https://docs.github.com/pt)
 
-## 🤖 COMANDOS QUE APRENDI
+## 🤖 COMANDOS Git PRATICADOS
 
 - [git config --global user.name "Nome do dev"] ➡️ Configurar o git, por o nome do usuário git
 - [git config --global user.email "email do dev"] ➡️ Configurar o git, por o email do usuário git
