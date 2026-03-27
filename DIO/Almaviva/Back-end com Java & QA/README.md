@@ -53,8 +53,8 @@ Comprometo-me a aplicar continuamente novos conhecimentos em códigos e document
 
 | Ferramentas | Linguagens |
 |:-:|:-:|
-| IntelliJ IDEA | Java |
-| Git | - |
+| `IntelliJ IDEA` | `Java` |
+| `Git` | `-` |
 
 ## 🤖 COMANDOS Git PRATICADOS
 
