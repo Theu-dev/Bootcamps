@@ -36,4 +36,4 @@ DIO | Resumos Git e GitHub
 - [git stash list] ➡️ Listar modificações arquivadas da branch
 - [git stash pop] ➡️ Recuperar modificações arquivadas da branch e excluir a alteração mais recente da pilha
 - [git stash applay] ➡️ Recuperar modificações arquivadas da branch e manter modificação na lista para uso posterior
-- [git stash applay stash@{"Numero da pilha"} ou git stash pop stash@{"Numero da pilha"}] ➡️ Recuperação com multiplos arquivos arquivados.(Pesquisei fora do bootcamp DIO)
+- [git stash applay stash@{"Numero da pilha"} ou git stash pop stash@{"Numero da pilha"}] ➡️ Recuperação com multiplos arquivos arquivados.(Pesquisei fora do bootcamp DIO).
