@@ -1,4 +1,4 @@
-## 📋 Apresentação
+## 📋 APRESENTAÇÃO
 
 Este repositório documenta meu progresso no **Bootcamp Back-end com Java & QA** da DIO. Criado para registrar conquistas, praticar commits no Git e aprimorar habilidades em Markdown, visando usufruir ao máximo de todos os conceitos ensinados.
 
@@ -6,7 +6,7 @@ Comprometo-me a aplicar continuamente novos conhecimentos em códigos e document
 
 ---
 
-## 📖 Status de Progresso
+## 📖 STATUS
 
 - ✅ **Concluído**: Módulos ou atividades finalizadas com sucesso.
 - ⌛ **Em Andamento**: Conteúdo atualmente em estudo ou prática.
@@ -36,16 +36,25 @@ Comprometo-me a aplicar continuamente novos conhecimentos em códigos e document
 
 ## PROJETOS CONCLUIDOS
 
-✅ Contribuindo em um Projeto Open Source no GitHub [https://github.com/Theu-dev/dio-lab-open-source.git]
+✅ Contribuindo em um Projeto Open Source no GitHub  
+[https://github.com/Theu-dev/dio-lab-open-source.git]
 
 ## LIVES ASSISITIDAS
 
-✅ Live de Lançamento - Almaviva - Back-end com Java & QA ➡️ https://www.youtube.com/live/a0HtHFkKyjk?si=SusFylu7WxhJXqdY
+✅ Live de Lançamento - Almaviva - Back-end com Java & QA
+[https://www.youtube.com/live/a0HtHFkKyjk?si=SusFylu7WxhJXqdY]
 
 ## 📑 DOCUMENTACOES INDICADAS
 
 - [Documentação Git](https://git-scm.com/docs/git/pt_BR)
 - [Documentação GitHub](https://docs.github.com/pt)
+
+## 🧰 FERRAMENTAS E LINGUAGENS
+
+| Ferramentas | Linguagens |
+|:-:|:-:|
+| IntelliJ IDEA | Java |
+| Git | - |
 
 ## 🤖 COMANDOS Git PRATICADOS
 
@@ -81,3 +90,5 @@ Comprometo-me a aplicar continuamente novos conhecimentos em códigos e document
 | `git stash pop` | Recuperar modificações arquivadas da branch e excluir a alteração mais recente da pilha |
 | `git stash apply` | Recuperar modificações arquivadas da branch e manter modificação na lista para uso posterior |
 | `git stash apply stash@{"Numero da pilha"} ou git stash pop stash@{"Numero da pilha"}` | Recuperação com multiplos arquivos arquivados (Pesquisei fora do bootcamp DIO)
+
+---
