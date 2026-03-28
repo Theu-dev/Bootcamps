@@ -18,7 +18,7 @@ Comprometo-me a aplicar continuamente novos conhecimentos em códigos e document
 
 ✅ Onboard do Bootcamp e Fundamentos de Colaboração no GitHub
 
-⌛ Fundamentos de Java
+⌛ Fundamentos da linguagem de programação Java
 
 ⏳ Orientação a Objeto em java na Prática
 
