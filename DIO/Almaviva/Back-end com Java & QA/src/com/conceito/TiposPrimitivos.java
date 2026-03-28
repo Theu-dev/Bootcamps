@@ -1,6 +1,8 @@
-package com;
+package com.conceito;
 
 import java.util.Scanner;
+
+import static java.lang.System.*;
 
 public class TiposPrimitivos {
 
@@ -15,7 +17,7 @@ public class TiposPrimitivos {
 
     public static void main(String[] args) {
 
-        Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(in);
         //SE USASSE-MOS:
         // * var scanner = new Scanner(System.in);
         // * FUNCIONARIA.
