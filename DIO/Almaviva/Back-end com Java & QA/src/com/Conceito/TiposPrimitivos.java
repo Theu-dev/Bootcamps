@@ -1,4 +1,4 @@
-package com.conceito;
+package com.Conceito;
 
 import java.util.Scanner;
 

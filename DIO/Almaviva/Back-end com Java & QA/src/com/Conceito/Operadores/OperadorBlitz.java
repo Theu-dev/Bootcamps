@@ -1,4 +1,4 @@
-package com.conceito.Operadores;
+package com.Conceito.Operadores;
 
 import java.util.Scanner;
 
