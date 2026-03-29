@@ -2,7 +2,7 @@ package com.Conceito.Operadores;
 
 import java.util.Scanner;
 
-public class OperadorAritmetico {
+public class OperadoesAritmeticos {
 
     public static void main(String[] args) {
 

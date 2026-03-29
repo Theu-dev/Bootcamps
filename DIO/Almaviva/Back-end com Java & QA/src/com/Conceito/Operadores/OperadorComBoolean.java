@@ -2,7 +2,7 @@ package com.Conceito.Operadores;
 
 import java.util.Scanner;
 
-public class OperadorBlitz {
+public class OperadorComBoolean {
 
     public static void main(String[] args) {
         var scanner = new Scanner(System.in);
