@@ -42,10 +42,13 @@ Comprometo-me a aplicar continuamente novos conhecimentos em códigos e document
 
 ✅ [Live de Lançamento - Almaviva - Back-end com Java & QA](https://www.youtube.com/live/a0HtHFkKyjk?si=SusFylu7WxhJXqdY)
 
-## 📑 DOCUMENTACOES INDICADAS
+## 🤝 MATERIAL DE APOIO
 
 - [Documentação Git](https://git-scm.com/docs/git/pt_BR)
 - [Documentação GitHub](https://docs.github.com/pt)
+- [Repositório de Exercicios](https://github.com/digitalinnovationone/exercicios-java-basico)
+- [Java keywords](https://www.w3schools.com/java/java_ref_keywords.asp)
+
 
 ## 🧰 FERRAMENTAS E LINGUAGENS
 
