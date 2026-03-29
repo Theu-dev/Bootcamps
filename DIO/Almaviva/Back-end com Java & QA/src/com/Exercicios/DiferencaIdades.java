@@ -20,7 +20,7 @@ public class DiferencaIdades {
 
         var compare = Math.abs(age - age2);
 
-        System.out.printf("\n%s tem %s anos\n%s tem %s anos\n\nA diferença de idade entre %s e %s é de %s anos\n",name, age, name2, age2,name, name2, compare);
+        System.out.printf("\n%s tem %s anos\n%s tem %s anos\n\nA diferença de idade entre %s e %s é de %s anos.\n",name, age, name2, age2,name, name2, compare);
 
     }
 
