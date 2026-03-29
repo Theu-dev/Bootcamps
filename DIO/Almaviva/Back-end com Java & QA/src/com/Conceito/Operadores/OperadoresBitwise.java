@@ -6,13 +6,13 @@ public class OperadoresBitwise {
 
     public static void main(String[] args) {
 
-        int num = 6;
+        int num = 16;
         var binary = toBinaryString(num);
         System.out.printf("Primeiro número da operação = %s\n Representação binária = %s", num,binary);
 
-        int num2 = 5;
-        var binary2 = toBinaryString(num);
-        System.out.printf("\n\nPrimeiro número da operação = %s\n Representação binária = %s", num2,binary2);
+        int num2 = 4;
+        var binary2 = toBinaryString(num2);
+        System.out.printf("\n\nSegundo número da operação = %s\n Representação binária = %s", num2,binary2);
 
         var result = num | num2;
         /*Precisa apenas que um dos valores seja 1  para retornar 1
@@ -40,7 +40,7 @@ public class OperadoresBitwise {
         por um número especificado de posições.
          */
 
-        var result6 = num << num2;
+        var result6 = num >> num2;
         /*
         O operador de deslocamento à esquerda ( << )
         move os bits de um número para a esquerda
@@ -51,9 +51,8 @@ public class OperadoresBitwise {
         System.out.printf("\n\nResultado da operação AND ( & ) = %s\n Representação binária = %s", result2, toBinaryString(result2));
         System.out.printf("\n\nResultado da operação XOR ( ^ ) = %s\n Representação binária = %s", result3, toBinaryString(result3));
         System.out.printf("\n\nResultado da operação Complement ( ~ ) = %s\n Representação binária = %s", result4, toBinaryString(result4));
-        System.out.printf("\n\nResultado da operação Left ( << ) = %s\n Representação binária = %s", result4, toBinaryString(result4));
-        System.out.printf("\n\nResultado da operação Left ( >> ) = %s\n Representação binária = %s", result5, toBinaryString(result5));
-
+        System.out.printf("\n\nResultado da operação Left ( << ) = %s\n Representação binária = %s", result5, toBinaryString(result5));
+        System.out.printf("\n\nResultado da operação Left ( >> ) = %s\n Representação binária = %s\n", result6, toBinaryString(result6));
             }
 
     /*

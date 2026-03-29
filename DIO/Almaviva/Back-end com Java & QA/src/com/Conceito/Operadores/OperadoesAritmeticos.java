@@ -18,7 +18,7 @@ public class OperadoesAritmeticos {
         var result3 = num1 * num2;
         float result4 = (float) num1 / num2; // Um dos operandos é convertido para Float para promover a operação
         var result5 = num1 % num2;
-        float result6 = (5 + 9) * (10 - 5) / 2; //Usando regra matemática para que o compilador entenda a opeação desejada.
+        float result6 = 5 + (9 * 10) - (5 / 2); //Usando regra matemática para que o compilador entenda a opeação desejada.
 
 
 
@@ -27,7 +27,7 @@ public class OperadoesAritmeticos {
         System.out.printf("%s * %s = %s\n",num1, num2, result3);
         System.out.printf("%s / %s = %s\n",num1, num2, result4);
         System.out.printf("%s %% %s = %s\n",num1, num2, result5);
-        System.out.printf("(5 + 9) * (10 - 5) / 2 = %s\n",num1, num2, result6);
+        System.out.printf("5 + (9 * 10) - (5 / 2) = %s\n", result6);
 
         System.out.println("Calculo de Raiz");
 
@@ -42,7 +42,7 @@ public class OperadoesAritmeticos {
         /*Você pode escolher o numero da potencia criando uma variável de entrada para potencia*/
         var num4 = scanner.nextDouble();
 
-        System.out.printf("O quadrador de %s é = %s\n",num3, Math.pow(num4, 2));
+        System.out.printf("O quadrador de %s é = %s\n",num4, Math.pow(num4, 2));
         /*O número 2 dentro de pow é referente a potência que deseja submeter o numero escolhido*/
 
         System.out.println("Operador de incremento x decremento");
