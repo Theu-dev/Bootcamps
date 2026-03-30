@@ -1,4 +1,4 @@
-package com.Conceito.Operadores;
+package com.Conceitos.Operadores;
 
 import static java.lang.Integer.toBinaryString;
 

@@ -1,5 +1,3 @@
-package com.Exercicios;
-
 import java.util.Scanner;
 
 public class Saudacao {
