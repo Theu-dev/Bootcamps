@@ -13,12 +13,12 @@ public class Tabuada {
             System.out.println("Digite qualquer numero diferente de 0 e receba sua multiplicacao de 1 a 10");
 
             if (!scanner.hasNextInt()) {
-                System.out.println("\nEntrada invalida.\nDigite apenas numeros.\n");
+                System.out.println("\nEntrada invalida.\nDigite apenas numeros inteiros.\n");
                 scanner.nextLine();
                 continue;
             }
 
-            int value = scanner.nextInt();
+            var value = scanner.nextInt();
 
             if (value != 0) {
                 for (int i = 1; i <= 10; i++) {
@@ -31,8 +31,8 @@ public class Tabuada {
             System.out.println("\nDigite true para tentar novamente ou false para parar");
 
             while (!scanner.hasNextBoolean()) {
-                System.out.println("\nValor invalido. Digite apenas true ou false.\n");
-                scanner.nextLine();
+                System.out.println("\nValor invalido. Digite apenas true ou false.");
+                scanner.next();
             }
 
             continuar = scanner.nextBoolean();
