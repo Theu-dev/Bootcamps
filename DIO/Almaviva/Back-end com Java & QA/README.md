@@ -61,6 +61,7 @@ Comprometo-me a aplicar continuamente novos conhecimentos em códigos e document
 
 | Comando | Explicação Técnica | Exemplo | Retorno |
 |---------|--------------------|---------|---------|
+| `git config --global --add safe.directory "Caminho do diretório"` | Define um repositório como seguro para add ao repositório remoto. | `git config --global user.name "\E"` | Repositório como seguro. |
 | `git config --global user.name "Nome do dev"` | Define o nome do autor usado pelo Git em todos os commits feitos na máquina. | `git config --global user.name "Maria Silva"` | Normalmente não exibe mensagem; a configuração fica salva globalmente. |
 | `git config --global user.email "email do dev"` | Define o e-mail do autor usado pelo Git em todos os commits feitos na máquina. | `git config --global user.email "maria@email.com"` | Normalmente não exibe mensagem; a configuração fica salva globalmente. |
 | `git config --global --list` | Exibe todas as configurações globais atualmente salvas no Git. | `git config --global --list` | Lista no terminal pares como `user.name` e `user.email`. |
