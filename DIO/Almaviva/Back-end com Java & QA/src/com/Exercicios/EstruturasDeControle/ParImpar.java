@@ -10,26 +10,45 @@ public class ParImpar {
 
 
         System.out.println("Digite o primeiro número apartir de 1:");
-        var value = scanner.nextFloat();
+        var value = scanner.nextInt();
 
         System.out.println("Digite o segundo número(Deve ser maior que o primeiro):");
-        var value2 = scanner.nextFloat();
+        var value2 = scanner.nextInt();
 
 
         System.out.println("Digite par para saber os números pares ou ímpar para saber os números ímpares:");
         var parOuImpar = scanner.next();
 
-        if (value < value2 && (parOuImpar.equalsIgnoreCase("par") || parOuImpar.equalsIgnoreCase("impar"))){
+        int i;
 
-            System.out.println("Números pares do intervalo:");
-            for (int i = 1; i < value2; value2--){
-                var par = value % i;
-                if (par == 0){
+        if (value < value2 && parOuImpar.equalsIgnoreCase("par")) {
 
-                 System.out.printf("%d", value2);
+            System.out.println("\nNúmeros pares do intervalo:");
+
+            for (i = value; i <= value2; value2--) {
+                float par = (float) value2 % 2;
+                if (par == 0) {
+
+                    System.out.printf("%s ", value2);
+
+                }
+            }
+        } else if (value < value2 && parOuImpar.equalsIgnoreCase("impar")) {
+
+            System.out.println("\nNúmeros ímpares do intervalo:");
+
+            for (i = value; i <= value2; value2--) {
+                float impar = (float) value2 % 2;
+                if (impar != 0) {
+
+                    System.out.printf("%s ", value2);
 
                 }
             }
         }
+
     }
 }
+
+
+

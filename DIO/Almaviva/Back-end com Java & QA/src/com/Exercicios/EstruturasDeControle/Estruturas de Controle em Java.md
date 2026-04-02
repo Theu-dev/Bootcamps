@@ -10,7 +10,7 @@
    - Se for entre 35,0 e 39,9 "Obesidade Grau II (Severa)";
    - Se for maior ou igual a 40,0 "Obesidade III (Mórbida)";
 
-3. Escreva um código que o usuário entre com um primeiro número, um segundo número maior que o primeiro e escolhe entre a opção par e 
+✅3. Escreva um código que o usuário entre com um primeiro número, um segundo número maior que o primeiro e escolhe entre a opção par e 
 impar, com isso o código deve informar todos os números pares ou ímpares (de acordo com a seleção inicial) no intervalo de números informados, incluindo os números informados e em ordem decrescente;
 
 4. Escreva um código onde o usuário informa um número inicial, posteriormente irá informar outros N números,
