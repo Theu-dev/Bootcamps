@@ -18,15 +18,17 @@ public class RestoZero {
             var value2 = scanner.nextInt();
 
             if (value2 < value) {
-                System.out.println("Número ignorado (menor que o inicial)");
+                System.out.printf("\nNúmero ignorado (menor que o inicial)\nDigite um número maior que %s.\n", value);
                 continue;
             }
 
                 if (value2 % value == 0) {
                     System.out.printf("\nO número %s é divisor de %s\n\n", value, value2);
+
+                    System.out.printf("Finalizando programa!\n");
                 } else {
+                    System.out.printf("\nO número %s não é divisor de %s\n\n", value, value2);
                     difere = false;
-                    System.out.printf("\nO número %s não é divisor de %s\nFinalizando programa!\n", value, value2);
                 }
 
         } while(difere);

@@ -8,7 +8,6 @@ public class ParImpar {
 
         var scanner = new Scanner(System.in);
 
-
         System.out.println("Digite o primeiro número apartir de 1:");
         var value = scanner.nextInt();
 
