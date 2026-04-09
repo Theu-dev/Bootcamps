@@ -18,9 +18,9 @@ Comprometo-me a aplicar continuamente novos conhecimentos em códigos e document
 
 ✅ Onboard do Bootcamp e Fundamentos de Colaboração no GitHub
 
-⌛ Fundamentos da linguagem de programação Java
+✅ Fundamentos da linguagem de programação Java
 
-⏳ Orientação a Objeto em java na Prática
+⌛ Orientação a Objeto em java na Prática
 
 ⏳ Debug, Exeções,I/O e Gestão de Dependências
 
@@ -41,6 +41,7 @@ Comprometo-me a aplicar continuamente novos conhecimentos em códigos e document
 ## LIVES ASSISITIDAS
 
 ✅ [Live de Lançamento - Almaviva - Back-end com Java & QA](https://www.youtube.com/live/a0HtHFkKyjk?si=SusFylu7WxhJXqdY)
+✅ [Boas Práticas de Desenvolvimento em Java no Mundo Real](https://www.youtube.com/live/1CWO9j_i_P0?si=3SI6YCZa1Mc-IDnF)
 
 ## 🤝 MATERIAL DE APOIO
 

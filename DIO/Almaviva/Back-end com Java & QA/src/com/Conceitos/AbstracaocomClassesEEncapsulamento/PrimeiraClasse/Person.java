@@ -1,4 +1,4 @@
-package com.Conceitos.AbstracaocomClassesEEncapsulamento;
+package com.Conceitos.AbstracaocomClassesEEncapsulamento.PrimeiraClasse;
 
 public class Person {
 
