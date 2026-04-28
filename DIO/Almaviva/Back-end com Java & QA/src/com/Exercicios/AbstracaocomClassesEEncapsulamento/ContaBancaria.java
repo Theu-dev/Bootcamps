@@ -2,43 +2,37 @@ package com.Exercicios.AbstracaocomClassesEEncapsulamento;
 
 public class ContaBancaria {
 
-    private final String name = "Matheus";
-    private int idade = 23;
-
     private float saldo;
-    private float CHe;
-    private float depositar;
-    private float sacar;
-    private float pagar;
-    private boolean verificarConta;
+    private float limite;
 
-    public String getName() { return name; }
+    public ContaBancaria(float saldo){
 
-    public int getIdade() { return idade; }
+        this.saldo = saldo;
 
-    public void setIdade(int idade) { this.idade = idade; }
+        if(saldo < 0){
+            
+            throw new IllegalArgumentException("Saldo inferior a 1");
+            
+        } else { if(saldo <= 500){
+                limite = 50;
+            } else { limite = saldo * 0.5; } }
+    }
 
     public float getSaldo() { return saldo; }
 
-    public void setSaldo(float saldo) { this.saldo = saldo; }
+    public float getLimite() { return limite; }
 
-    public float getCHe() { return CHe; }
+    public void setDeposito(float deposito){
+        
+        if(deposito < 0){ throw new IllegalArgumentException("Saldo inferior a 1"); }
 
-    public void setCHe(float CHe) { this.CHe = CHe; }
+        float antes = saldo;
 
-    public float getDepositar() { return depositar; }
+        this.deposito = deposito;
+        saldo = saldo + deposito;
 
-    public void setDepositar(float depositar) { this.depositar = depositar; }
-
-    public float getSacar() { return sacar; }
-
-    public void setSacar(float sacar) {this.sacar = sacar;}
-
-    public float getPagar() { return pagar; }
-
-    public void setPagar(float pagar) { this.pagar = pagar; }
-
-    public boolean isVerificarConta() { return verificarConta; }
-
-    public void setVerificarConta(boolean verificarConta) { this.verificarConta = verificarConta; }
+        if(antes < 0){
+            saldo = saldo * 0.2;
+        }
+    }
 }
