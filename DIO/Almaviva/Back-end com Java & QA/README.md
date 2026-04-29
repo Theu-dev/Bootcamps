@@ -34,7 +34,7 @@ Comprometo-me a aplicar continuamente novos conhecimentos em códigos e document
 
 ⏳ Testes de Software em Projetos java
 
-## EXERCICIOS
+## EXERCICIOS PRATICADOS
 
 ✅ [Fundamentos da Sintaxe da Linguagem Java](https://github.com/Theu-dev/Bootcamps/tree/c302ac3b7cbaab7e07846d0935ff008da2e58103/DIO/Almaviva/Back-end%20com%20Java%20%26%20QA/src/com/Exercicios/FundamentosDaSintaxeDaLinguagemJava)
 ✅ [Estruturas de Controle](https://github.com/Theu-dev/Bootcamps/tree/c302ac3b7cbaab7e07846d0935ff008da2e58103/DIO/Almaviva/Back-end%20com%20Java%20%26%20QA/src/com/Exercicios/EstruturasDeControle)
