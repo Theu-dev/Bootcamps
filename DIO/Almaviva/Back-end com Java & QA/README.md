@@ -34,9 +34,19 @@ Comprometo-me a aplicar continuamente novos conhecimentos em códigos e document
 
 ⏳ Testes de Software em Projetos java
 
+## EXERCICIOS
+
+✅ [Fundamentos da Sintaxe da Linguagem Java](https://github.com/Theu-dev/Bootcamps/tree/c302ac3b7cbaab7e07846d0935ff008da2e58103/DIO/Almaviva/Back-end%20com%20Java%20%26%20QA/src/com/Exercicios/FundamentosDaSintaxeDaLinguagemJava)
+✅ [Estruturas de Controle](https://github.com/Theu-dev/Bootcamps/tree/c302ac3b7cbaab7e07846d0935ff008da2e58103/DIO/Almaviva/Back-end%20com%20Java%20%26%20QA/src/com/Exercicios/EstruturasDeControle)
+⌛ [Abstracao com Classes e Encapsulamento](https://github.com/Theu-dev/Bootcamps/tree/c302ac3b7cbaab7e07846d0935ff008da2e58103/DIO/Almaviva/Back-end%20com%20Java%20%26%20QA/src/com/Exercicios/AbstracaocomClassesEEncapsulamento)
+
 ## PROJETOS CONCLUIDOS
 
 ✅ [Contribuindo em um Projeto Open Source no GitHub](https://github.com/Theu-dev/dio-lab-open-source.git)
+
+## DESAFIOS DE CÓDIGO
+
+✅ [Aperfeiçoe sua Lógica e Pensamento Computacional]
 
 ## LIVES ASSISITIDAS
 
